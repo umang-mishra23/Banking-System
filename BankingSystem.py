@@ -75,7 +75,7 @@ def main():
     bank = Bank()
 
     while True:
-        print("\nPython Banking System")
+        print("\nUmang Banking System")
         print("1. Create Account")
         print("2. Perform Transaction")
         print("3. Check Balance")
@@ -136,7 +136,7 @@ def main():
                 print("Invalid account number or PIN.")
 
         elif choice == "6":
-            print("Exiting the Python Banking System. Goodbye!")
+            print("Exiting the Umang Banking System. Have a good day!")
             break
 
         else:
